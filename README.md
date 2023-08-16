@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruna Bricio</h1>
+
+<img align="center" alt="coding" width="400" src="https://media.tenor.com/AESz5FRMR_oAAAAM/capoo-cat.gif">
+
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunabricio&label=Profile%20views&color=0e75b6&style=flat" alt="brunabricio" /> </p>
