@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruna Bricio</h1>
 
-<img align="center" alt="coding" width="400" src="https://gifdb.com/images/high/blue-typing-cat-working-mode-gzp9vt97s4mcvy26.gif">
-
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 🌱 I’m currently learning **UX Design**
