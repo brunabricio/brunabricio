@@ -4,8 +4,6 @@
 
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunabricio&label=Profile%20views&color=0e75b6&style=flat" alt="brunabricio" /> </p>
-
 - 🌱 I’m currently learning **UX Design**
 
 - 💬 Ask me about **HTML, CSS, JS, TS, Angular**
