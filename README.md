@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **UX Design**
 
-- 💬 Ask me about **HTML, CSS, JS, TS, Angular**
+- 💬 Ask me about **HTML, CSS, SASS, SCSS, BEM, JS, TS and Angular**
 
 - 📫 How to reach me **brunabricio@icloud.com**
 
